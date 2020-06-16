@@ -10,8 +10,8 @@
     }
   ],
   "require": {
-    "php": ">=5.5.9",
-    "illuminate/console": "5.1.*|5.2.*|5.3.*|5.4.*|5.5.*|5.6.*",
+    "php": ">=7.4",
+    "illuminate/console": "^7.0",
     "barryvdh/laravel-debugbar": "^2.3|^3.0",
     "clue/stdio-react": "~2.1"
   },
